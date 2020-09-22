@@ -17,3 +17,8 @@
 
 
 :dog::bread:
+
+| Left | Center | Right |
+|:-----|:------:|------:|
+|test1 | abc    |$1000  |
+|test2 | cde    |800    |
