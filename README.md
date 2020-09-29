@@ -6,6 +6,17 @@
 ---
 ###### 20200922_micro
 
+*this text will be italic*
+
+_this will also be italic_
+
+**this text will be bold**
+
+__this will also be bold__
+
+*you **can** conbine them*
+
+
 [高雄第一科大](https://www.nkust.edu.tw/)
 
 ![NKUST](nksut.png "高雄第一科大")
