@@ -16,6 +16,18 @@ __this will also be bold__
 
 *you **can** conbine them*
 
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  
+1. Item 1
+2. Item 2
+3. Item 3
+    * item 3a
+    * Item 3b
+  
+
 
 [高雄第一科大](https://www.nkust.edu.tw/)
 
