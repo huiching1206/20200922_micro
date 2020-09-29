@@ -27,7 +27,7 @@ __this will also be bold__
     * item 3a
     * Item 3b
   
-
+<https://www.nkust.edu.tw/>
 
 [高雄第一科大](https://www.nkust.edu.tw/)
 
@@ -37,6 +37,11 @@ __this will also be bold__
 
 
 [![Docker](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "Docker")
+
+As kayne West said:
+
+> We're living the future so
+> the present is our past.
 
 
 :dog::bread:
