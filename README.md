@@ -55,5 +55,13 @@ As kayne West said:
 - [ ] A
 - [x] B
 
+\*literal asterisks\*
+
+- [x] @mentions, #refs, [links]()
+
+- [x] this is a complete item
+
+- [ ] this is an incomplete item 
+
 
 ![test](https://i.imgur.com/4UxbQgt.png)
