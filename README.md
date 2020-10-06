@@ -1,4 +1,7 @@
 # 20200922_micro
+
+[![hackmd-github-sync-badge](https://hackmd.io/OyZmIsokTXqRWL6UhQrovA/badge)](https://hackmd.io/OyZmIsokTXqRWL6UhQrovA)
+
 ## 20200922_micro
 ### 20200922_micro
 #### 20200922_micro
@@ -74,3 +77,6 @@ As kayne West said:
 
 print('Hello, world!')
 ```
+:::info
+:bulb: **提示**: 如您使用私有團隊方案，圖片會上傳到私有的 S3 空間，且只能透過筆記存取圖片。
+:::
